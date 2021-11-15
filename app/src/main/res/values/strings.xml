@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PromptNowTest</string>
+
+    <string name="input_item">Input Item</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_delete">Delete</string>
+</resources>
